@@ -10,7 +10,7 @@ namespace Demo_7
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("master");
         }
     }
 }
